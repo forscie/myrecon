@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-
 # A recon script for enumerating targets from a file (/root/EXAM/targets.txt)
 # This script is not exhaustive, however it has been created to rapidly increase the time taken
 # to enumerate targets (specifically designed for the OSCP exam).
