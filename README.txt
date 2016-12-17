@@ -18,6 +18,8 @@ myrecon: an automated remote enumeration tool (a modified version of reconscan.p
 Usage: python myrecon.py
 
 This collection of scripts has been modified from the original (originals by T_v3rn1x).
+A reasonable amount of updating and a small amount of additional functionality has been added. A few (tiny!) mistakes have also been corrected.
+
 myrecon is designed to enumerate remote target IP(s) listed in the targets.txt file (hard coded).
 
 These scripts rely on a specific directory structure to function: /root/EXAM/targets.txt should contain an IP or list of IPs to be scanned.
