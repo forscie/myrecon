@@ -8,6 +8,9 @@
 # SEE FIT. THIS SCRIPT SHOULD NOT BE USED AGAINST ANY TARGETS THAT YOU DO NOT HAVE PERMISSION TO
 # ENUMERATE OR ATTACK!
 
+# CUSTOMISED BY forScience (forscience.xyz). Original by Mike Czumak (T_v3rn1x) -- @SecuritySift
+# Original available at https://github.com/jbarcia/TrustedSec/tree/master/recon_scan
+
 # DIRECTORY STRUCTURE
 #/root/EXAM/targets.txt - file containing list of IPs
 #/root/EXAM/myrecon/results/ - directory containing ALL scan results
