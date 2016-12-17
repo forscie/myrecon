@@ -24,7 +24,7 @@ These scripts rely on a specific directory structure to function: /root/EXAM/tar
 The scripts create .txt reports which are located in IP titled directories that are created automatically by the script (where required).
 The hard coded directories (and directory locations that are automatically created) can be modified in the scripts by searching for /root/EXAM/myrecon/results/
 
-Like the original this collection of scripts consists of:
+This collection of scripts consists of (like the original):
 
 myrecon.py (main)
 dirbust.py  
